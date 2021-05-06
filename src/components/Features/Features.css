@@ -1,0 +1,17 @@
+.features-title {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+}
+
+.features-group {
+  display: flex;
+}
+
+.detailed-records {
+  margin-top: 36px;
+}
+
+.fully-customizable {
+  margin-top: 72px;
+}
