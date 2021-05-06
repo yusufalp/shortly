@@ -1,0 +1,24 @@
+.navbar-group h1 {
+  margin-right: 24px;
+}
+
+.navbar-group ul {
+  display: inline-block;
+  list-style-type: none;
+  padding-left: 0;
+  margin: auto 0;
+}
+
+.navbar-group ul li {
+  display: inline-block;
+  margin-left: 24px;
+}
+
+.navbar-group {
+  display: flex;
+}
+
+.navbar-group .product-login-registration {
+  display: flex;
+  right: 0;
+}
