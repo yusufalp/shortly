@@ -1,0 +1,25 @@
+.landing-main {
+  padding-left: 10%;
+}
+
+.landing-group {
+  display: flex;
+}
+
+.landing-group h1 {
+  margin: 120px 0 0 0;
+  font-size: 84px;
+  line-height: 90px;
+  letter-spacing: -3px;
+}
+
+.landing-group p {
+  font-size: 24px;
+  width: 90%;
+  letter-spacing: -1px;
+}
+
+.landing-main-image {
+  width: 840px;
+  margin-left: 20%;
+}
