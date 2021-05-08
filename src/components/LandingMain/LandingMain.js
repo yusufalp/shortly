@@ -3,7 +3,7 @@ import './LandingMain.css';
 
 const LandingMain = () => {
   return (
-    <div className="landing-all">
+    <div className="landing-main">
       <div className="landing-group">
         <div>
           <h1>More than just shorter links</h1>
