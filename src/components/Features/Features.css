@@ -1,3 +1,11 @@
+.features-main {
+  padding: 10%;
+}
+
+.features-main h2 {
+  font-size: 3rem;
+}
+
 .features-title {
   text-align: center;
   margin: auto;
@@ -6,6 +14,7 @@
 
 .features-group {
   display: flex;
+  padding: 10% 0;
 }
 
 .detailed-records {
@@ -14,4 +23,8 @@
 
 .fully-customizable {
   margin-top: 72px;
+}
+
+.single-feature {
+  padding: 0 2%;
 }
