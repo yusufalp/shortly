@@ -32,9 +32,9 @@ const Features = () => {
         </p>
       </div>
       <div className="features-group">
-        {listOfFeatures.map(feature => {
+        {listOfFeatures.map((feature, index) => {
           return (
-            <Feature className={feature.className} details={feature.details} name={feature.name} />
+            <Feature key={index} className={feature.className} details={feature.details} name={feature.name} />
           );
         })}
       </div>
